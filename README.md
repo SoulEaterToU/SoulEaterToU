@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SoulEaterToU
-- 👀 I’m interested in development, design and programming
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: big foot jinx
+- 👋 Hi, I’m @SoulEaterToU / SoulEater ♂️. I know LUA, Python;
+- 👀 I’m interested in 🛠️ development, 🎨 design and 🖥️ programming;
+- 🌱 I’m currently learning Python in it's entirety;
+- 😈 You can see my previous projects in the public archive folder;
+- ⚡ Fun fact: 🐈‍⬛ big foot jinx best cat → https://x.com/bigfootjinx
